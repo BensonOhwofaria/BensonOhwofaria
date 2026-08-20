@@ -15,7 +15,7 @@
 <!-- Social / Profile -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/benson-ohwofaria">
+  <a href="https://www.linkedin.com/in/benson-ohwofaria-a938aa403/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
